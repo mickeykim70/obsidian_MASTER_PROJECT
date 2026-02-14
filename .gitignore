@@ -1,0 +1,15 @@
+# Obsidian 내부 설정 및 캐시 (기기마다 다를 수 있어 제외 권장)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+.obsidian/plugins/
+.obsidian/cache/
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# 로그 및 임시 파일
+*.log
+*.tmp
